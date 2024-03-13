@@ -1,13 +1,14 @@
-# File Finder - C# .NET MAUI
+# Extreme File Finder - C# .NET MAUI
 
 ## Introduction
 
-
+Extreme File Finder is an application used for finding files on your system using multiple threads. It will look through specified folders or all folders.
 
 
 ### About the developers
 
-This game is being developed part of the course "C#2" at NHL Stenden University of Applied Sciences.
+This application is being developed part of the course "Threading in C#" at NHL Stenden University of Applied Sciences.
+
 Below you can find the team members:
 
 |        Name        |
@@ -18,18 +19,17 @@ Below you can find the team members:
 
 ## Description
 
-The program will let users search for files, making use of threads.
+The program will let users search for files, making use of threading.
 
 *General specifications:*
 
-* user interface
+* .NET MAUI
 * MVVM
 * Threading
-* 
 
 ### Class Diagram
 
-![ClassDiagram](./Assets/ClassDiagramStealthFurher.png "Class Diagram")
+![ClassDiagram](Placeholder.png "Class Diagram")
 
 ## Input & Output
 
@@ -61,7 +61,7 @@ The program will let users search for files, making use of threads.
 
 (The class diagram will be added here later)
 
-![UML Diagram](InsertDiagramHere.png "insert diagram here")
+![UML Diagram](Placeholder.png "insert diagram here")
 
 ## Test Plan
 
