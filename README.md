@@ -29,7 +29,7 @@ The program will let users search for files, making use of threading.
 
 ### Class Diagram
 
-![ClassDiagram](Placeholder.png "Class Diagram")
+![C# threading diagram](https://github.com/TheLobster1/ThreadingTheNeedle/assets/112638712/a261bcc0-005a-4a00-90fd-c1f92f290133)
 
 ## Input & Output
 
@@ -59,10 +59,7 @@ The program will let users search for files, making use of threading.
 
 ## Class Diagram
 
-(The class diagram will be added here later)
 ![C# threading diagram](https://github.com/TheLobster1/ThreadingTheNeedle/assets/112638712/a261bcc0-005a-4a00-90fd-c1f92f290133)
-
-![UML Diagram](Placeholder.png "insert diagram here")
 
 ## Test Plan
 
