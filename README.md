@@ -38,7 +38,7 @@ The program will let users search for files, making use of threading.
 | Must have | File searching on name and / or file type, Reading the text in the file, History of past successful searches|
 | Should have | Show sizes of folders, Button to copy file path, Hidden files being visible, show extensions of files|
 | Could have | Wildcard searches, Queue for searching |
-| Won't have | GUI navigation|
+| Won't have | |
 
 ## Input & Output
 
