@@ -31,6 +31,15 @@ The program will let users search for files, making use of threading.
 
 ![C# threading diagram](https://github.com/TheLobster1/ThreadingTheNeedle/assets/112638712/a261bcc0-005a-4a00-90fd-c1f92f290133)
 
+### MoSCoW analysis
+
+| Priority | Task |
+| --- | --- |
+| Must have | File searching on name and / or file type, Reading the text in the file, History of past successful searches|
+| Should have | Show sizes of folders, Button to copy file path, Hidden files being visible, show extensions of files|
+| Could have | Wildcard searches, Queue for searching |
+| Won't have | GUI navigation|
+
 ## Input & Output
 
 *The section below is yet to be updated*
@@ -56,10 +65,6 @@ The program will let users search for files, making use of threading.
 ### Remarks
 
 * Input will be validated
-
-## Class Diagram
-
-![C# threading diagram](https://github.com/TheLobster1/ThreadingTheNeedle/assets/112638712/a261bcc0-005a-4a00-90fd-c1f92f290133)
 
 ## Test Plan
 
