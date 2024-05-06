@@ -14,7 +14,6 @@ Below you can find the team members:
 |        Name        |
 |:------------------:|
 |    Rob Veldman     |
-|    Roy Stobbe      |
 |  Andrei Khoudiakov |
 
 ## Description
